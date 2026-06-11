@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: enterprise-system-20260611-200214-m55w5w6gxnq6
